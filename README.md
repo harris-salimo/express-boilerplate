@@ -1,4 +1,6 @@
-# Express Project
+# Express Project Starter
+
+A simple express project boilerplate.
 
 ## Stack
 
@@ -8,17 +10,14 @@
 - Graphql
 - Passport
 
-## Install
-
+## Installation
 
 ```bash
 git clone https://github.com/harris-salimo/express-project.git
 ```
 
-## Run
-
+## Usage
 
 ```bash
 SET DEBUG=express-project:*; pnpm dev
 ```
-
