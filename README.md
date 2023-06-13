@@ -1,16 +1,23 @@
-# Name
+# Express Project Starter
 
-Description
+A simple express project boilerplate.
+
+## Stack
+
+- Express
+- TypeScript
+- TypeORM
+- Graphql
+- Passport
 
 ## Installation
 
+```bash
+git clone https://github.com/harris-salimo/express-project.git
+```
+
 ## Usage
 
-## Contributing
-
-## Licence
-
-SET DEBUG=js-project:*; pnpm dev
-
-generate secret with crypto
-require('crypto').randomBytes(16).toString('hex')
+```bash
+SET DEBUG=express-project:*; pnpm dev
+```
