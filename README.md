@@ -1,4 +1,24 @@
-SET DEBUG=js-project:*; pnpm dev
+# Express Project
 
-generate secret with crypto
-require('crypto').randomBytes(16).toString('hex')
+## Stack
+
+- Express
+- TypeScript
+- TypeORM
+- Graphql
+- Passport
+
+## Install
+
+
+```bash
+git clone https://github.com/harris-salimo/express-project.git
+```
+
+## Run
+
+
+```bash
+SET DEBUG=express-project:*; pnpm dev
+```
+
